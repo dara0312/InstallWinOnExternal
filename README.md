@@ -4,4 +4,5 @@
 2. bcdboot h:\Windows /s h: /f ALL
 
 j: -> drive letter windows sources install
+
 h: -> drive letter External or USB (> 16GB)
